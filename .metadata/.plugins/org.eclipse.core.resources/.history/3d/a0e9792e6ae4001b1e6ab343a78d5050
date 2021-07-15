@@ -1,0 +1,5 @@
+package com.koreait.springmvc0714.controller.board;
+
+public class ListController {
+
+}

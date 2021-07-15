@@ -1,0 +1,9 @@
+package com.koreait.springmvc0714.controller.board;
+
+import org.springframework.web.servlet.mvc.Controller;
+
+public class ListController implements Controller{
+
+	
+	
+}

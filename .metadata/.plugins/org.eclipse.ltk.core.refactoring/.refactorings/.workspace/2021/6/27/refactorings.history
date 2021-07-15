@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;MVCFramework&apos;" deleteContents="false" description="Delete resource &apos;MVCFramework&apos;" element1="/MVCFramework" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1625012413290"/>&#x0A;<refactoring comment="Delete resource &apos;WVCFramework&apos;" deleteContents="false" description="Delete resource &apos;WVCFramework&apos;" element1="/WVCFramework" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1625036489730"/>
+</session>

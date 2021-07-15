@@ -1,0 +1,25 @@
+1624433696835	Rename type 'BoardDAO'
+1624433969102	Rename package 'com.koreait.site0622.board.mode.dao'
+1624434459879	Rename package 'com.koreait.site0622.board.model.dao'
+1624434704078	Rename resource 'MoardMapper.xml'
+1624438715505	Delete elements
+1624444990213	Rename compilation unit 'registSevlet.java'
+1624452322439	Delete element
+1624452397141	Rename compilation unit 'MessegeObject.java'
+1624507919087	Rename package 'koreait.site0622.controller.board'
+1624507929381	Rename compilation unit 'DeleteSServlet.java'
+1624507937981	Rename compilation unit 'RegistSevlet.java'
+1624509509997	Rename compilation unit 'jdbcBoardDAO.java'
+1624524961151	Delete element
+1624525254769	Rename resource 'comment'
+1624526193338	Copy compilation unit
+1624526377977	Copy file
+1624597266147	Copy file
+1624597275552	Copy file
+1624597554537	Copy file
+1624597576427	Rename resource 'emplist.jsp'
+1624597907583	Copy file
+1624602462036	Copy file
+1624608792831	Move folder
+1624608816428	Delete element
+1624612286332	Copy files

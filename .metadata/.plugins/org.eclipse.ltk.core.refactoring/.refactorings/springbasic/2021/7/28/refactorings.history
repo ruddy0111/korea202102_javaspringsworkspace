@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;aop&apos; to &apos;springbasic.aop&apos;&#x0D;&#x0A;- Original project: &apos;springbasic&apos;&#x0D;&#x0A;- Original element: &apos;springbasic/src/aop&apos;&#x0D;&#x0A;- Renamed element: &apos;springbasic/src/springbasic.aop&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;aop&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src=/optional=/true=/=/maven.pomderived=/true=/&lt;aop" name="springbasic.aop" qualified="false" references="true" stamp="1625547959652" textual="false" version="1.0"/>
+</session>

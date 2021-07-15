@@ -1,0 +1,6 @@
+package com.koreait.springmvc0714.controller.board;
+
+//게시글 등록 요청을 처리할 하위 컨트롤러
+public class RegistController implements Controller{
+
+}

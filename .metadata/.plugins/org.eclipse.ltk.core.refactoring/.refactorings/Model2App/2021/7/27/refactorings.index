@@ -1,0 +1,14 @@
+1625100078021	Delete element
+1625102284273	Rename package 'com.koreait.mvcframework.model.blood'
+1625102297232	Rename package 'com.koreait.mvcframework.model.movie'
+1625102393682	Rename type 'BloodControllerr'
+1625107116302	Copy package
+1625107124135	Delete element
+1625107194793	Rename package 'com.koreair.model2app.controller'
+1625107200661	Rename package 'com.koreair.model2app.controller.blood'
+1625107207499	Rename package 'com.koreair.model2app.controller.movie'
+1625114552672	Delete element
+1625114559149	Move compilation unit
+1625120584546	Delete element
+1625124928678	Move 'mapping.data' to 'WEB-INF'
+1625125075433	Rename package 'com.koreait.site0622.util.pool'

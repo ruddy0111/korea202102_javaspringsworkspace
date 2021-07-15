@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="springbasic"/>
+<aop-project name="SpringMVC0707"/>
+<aop-project name="SpringMVC20210706"/>
+<aop-project name="springmvc0715"/>
+</aop-reference-model>
