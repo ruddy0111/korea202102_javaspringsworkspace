@@ -1,0 +1,6 @@
+package test;
+
+//웹 서버가 가동될 때 감지하여 원하는 메시지 심기.
+public class MyListener {
+
+}

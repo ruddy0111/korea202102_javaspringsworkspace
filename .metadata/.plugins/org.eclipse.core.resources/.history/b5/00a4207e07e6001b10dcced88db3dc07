@@ -1,0 +1,5 @@
+package com.koreait.springdb.model.service.board;
+
+public interface BoardService {
+
+}
