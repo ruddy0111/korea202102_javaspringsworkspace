@@ -1,7 +1,0 @@
-package com.koreait.springdb.model.repository.board;
-
-import org.springframework.stereotype.Repository;
-
-public class HibernateBoardDAO implements BoardDAO{
-
-}

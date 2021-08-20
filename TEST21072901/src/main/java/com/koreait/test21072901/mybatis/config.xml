@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+  PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+	<typeAliases>
+		<!-- VO 넣기 -->
+		<typeAlias type="com.koreait.nemorecipe.domain.Hardware" alias="Hardware"/>
+	</typeAliases>
+	
+	<mappers>
+		<!-- Mapper 넣기 -->
+		<mapper resource="com/koreait/test21072901/mybatis/HardwareMapper.xml"/>
+	</mappers>
+</configuration>

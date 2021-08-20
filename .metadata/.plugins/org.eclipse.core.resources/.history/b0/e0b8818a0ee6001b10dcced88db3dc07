@@ -1,5 +1,0 @@
-package com.koreait.springdb.model.repository.board;
-
-public class JdbcBoardDAO {
-
-}

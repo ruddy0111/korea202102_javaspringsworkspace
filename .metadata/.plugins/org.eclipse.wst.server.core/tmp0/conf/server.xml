@@ -51,7 +51,7 @@
 	 -->  	
 	 
 	<Resource auth="Container" driverClassName="oracle.jdbc.driver.OracleDriver" maxActive="20" maxIdle="10" maxWait="3000" name="jndi/oracle" password="1234" type="javax.sql.DataSource" url="jdbc:oracle:thin:@localhost:1521:XE" username="webmaster"/> 
-	<Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" maxActive="20" maxIdle="10" maxWait="3000" name="jndi/mysql" password="1234" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/javase?characterEncoding=UTF-8" username="root"/> 
+	<Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" maxActive="20" maxIdle="10" maxWait="3000" name="jndi/mysql" password="1234" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/nemorecipe?characterEncoding=UTF-8" username="root"/> 
 		 	
   </GlobalNamingResources>
 
@@ -169,7 +169,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="D:\korea2021_javaspringsworkspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\springdb" path="" reloadable="true" source="org.eclipse.jst.jee.server:springdb"/></Host>
+      <Context docBase="D:\korea2021_javaspringsworkspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\NemoRecipe" path="" reloadable="true" source="org.eclipse.jst.jee.server:NemoRecipe"/></Host>
     </Engine>
   </Service>
 </Server>

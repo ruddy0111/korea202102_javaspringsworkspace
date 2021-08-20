@@ -1,7 +1,7 @@
 <%@page import="com.koreait.site0622.model.domain.Member"%>
 <%@ page contentType="text/html; charset=UTF-8"%>
 <%
-	Member member = (Member)session.getAttribute("member");
+Hardware member = (Hardware)session.getAttribute("member");
 %>
 현재 <%=member.getName()%>님 로그인 중
 <div class="topnav">

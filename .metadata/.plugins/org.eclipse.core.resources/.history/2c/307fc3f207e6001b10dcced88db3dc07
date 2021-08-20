@@ -1,5 +1,0 @@
-package com.koreait.springdb.model.service.board;
-
-public class BoardServiceImpl {
-
-}

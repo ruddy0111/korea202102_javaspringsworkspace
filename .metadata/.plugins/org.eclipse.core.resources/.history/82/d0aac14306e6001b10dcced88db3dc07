@@ -1,7 +1,0 @@
-package com.koreait.spring.model.repository.board;
-
-import java.util.List;
-
-public interface BoardDAO {
-	public List selectAll();
-}
